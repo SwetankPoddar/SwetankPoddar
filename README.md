@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Incoming graduate developer @ Barclays
-- 🌱 I’m currently learning Haskell and Elm
+- 🔭 Graduate developer @ Barclays
+- 🌱 I’m currently learning how banks work!
 - 📫 How to reach me: hello<@>swetankpoddar.me
